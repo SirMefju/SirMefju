@@ -1,4 +1,4 @@
-Hi there,
+### Hi there,
  I'm computer science student passionate about arcade and racing games, AI and traveling. 
  - 🔭 I’m currently working on my engineering thesis about nonstandard neural networks.
  - 🌱 I’m currently learning programming languages java and python.
