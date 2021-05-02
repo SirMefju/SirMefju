@@ -1,7 +1,10 @@
+
 ### Hi there,
-I am a computer science student and passionate about arcade and racing games, AI and traveling. 
-- 🔭 I’m currently working on my engineering thesis about custom neural networks.
-- 🌱 I’m currently learning programming languages java and python.
+### I'm computer science student passionate about arcade and racing games, AI and traveling. 
+### - 🔭 I’m currently working on my engineering thesis about nonstandard neural networks.
+### - 🌱 I’m currently learning programming languages java and python.
+
+
 <!--
 **SirMefju/SirMefju** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
