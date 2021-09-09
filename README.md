@@ -1,7 +1,7 @@
 ### Hi there,
  I'm computer science student passionate about arcade and racing games, AI, traveling and mountains. 
  - 🔭 I’m currently working on my engineering thesis about nonstandard neural networks.
- - 🌱 I’m currently learning programming languages java and python.
+ - 🌱 I’m currently learning programming language python.
 
 
 <!--
