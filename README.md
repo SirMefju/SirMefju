@@ -34,11 +34,10 @@
 <!--<img align="left" alt="MongoDB" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mongodb/mongodb.png" />-->
 <img align="left" alt="Linux" width="26px" src="https://cdn.worldvectorlogo.com/logos/linux-tux.svg" />
 <img align="left" alt="Windows" width="26px" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Windows_logo_-_2012.svg/1200px-Windows_logo_-_2012.svg.png" />
-<img align="left" alt="MacOSX" width="26px" src="https://lh3.googleusercontent.com/proxy/MZ9N17cyRdiOeniMBc5WhRLvKt0kFGKi4OXxjUC6zMqjNvqhs2meTfpUpgszjVoVYI-waP5F36P-OqTQp03reG4_PEetnjn8aMdY6bengLKg0nmOXI7K_HWd8Y3dYoBiv_aw-F_Kj51OZiAUUrF8" />
+
 <img align="left" alt="Java" width="26px" src="https://cdn.freelogovectors.net/svg05/java-logo.svg" />
 <img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="Terminal" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
-<img align="left" alt="Notepad++" width="26px" src="https://lh3.googleusercontent.com/proxy/ghWW_PowP3tBbQ0ZliEw0Qru88fxDXXLVfRvUeV9CY4GbtrAtrLtfKXX0iUtL_w0oIUioeksau3kftwcmjbKICAXPgFWGMG1pk7IjRROeypgYL_hDT67" />
 
 <br />
 <br />
