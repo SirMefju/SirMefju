@@ -25,4 +25,6 @@
 [linkedin]: https://www.linkedin.com/in/mateusz-cie%C5%9Blik-6916931a3/
 [instagram]: https://www.instagram.com/sirmefju/
 
+<!--- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sirmefju&layout=compact)](https://github.com/anuraghazra/github-readme-stats) -->
+
 
