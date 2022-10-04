@@ -2,8 +2,8 @@
 
  - 🌱 I’m currently learning Python, JS and React.
  - :page_with_curl: Engineer work: an application for research custom neural networks.
- - :school: Gdańsk University of Technology: Master of Computer Science
- - :office: ET&S: Junior Developer
+ - :school: <a href="https://pg.edu.pl">Gdańsk University of Technology</a>: Master of Computer Science
+ - :office: <a href="https://www.ergo.com/pl-PL/Microsites/ETS/Start">ET&S</a>: Junior Developer
 
 ### I am working and interested in:
 <img align="left" alt="Python" width="26px" src="https://icon-library.com/images/python-icon-png/python-icon-png-28.jpg" />
