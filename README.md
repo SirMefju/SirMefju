@@ -1,5 +1,5 @@
 ### Hi there,
-:octocat: I treat GitHub as a private repository for code snippets. 
+:octocat: I treat GitHub as a private repository for code snippets.  
 :page_with_curl: Engineer work: an application for research custom neural networks.  
 :school: <a href="https://pg.edu.pl">Gdańsk University of Technology</a>: Master of Computer Science  
 :office: <a href="https://www.ergo.com/pl-PL/Microsites/ETS/Start">ET&S</a>: Junior Developer  
